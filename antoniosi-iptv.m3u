@@ -57,8 +57,6 @@ tvg-logo="###"
 group-title="TV Fechada",Bandsports 
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/3a222e85407a894aac2e8a0613c5ab85/bandsports.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" 
 tvg-name="Premiere Clubes" 
 tvg-logo="###" 
@@ -83,7 +81,6 @@ tvg-logo="###"
 group-title="TV Fechada",Sportv 
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/594cf9ac9be3d5c5866bcb54ef581851/sportv.m3u8
 
-
 #EXTINF:-1 tvg-id="" 
 tvg-name="Sportv 2" 
 tvg-logo="###" 
@@ -97,17 +94,16 @@ group-title="TV Fechada",Sportv 3
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/b7f09e831ebde91ea3ee1d0051ae12c2/sportv3.m3u8
 
 #EXTINF:-1 tvg-id="" 
-tvg-name="Sportv 3" 
+tvg-name="TNT" 
 tvg-logo="###" 
-group-title="TV Fechada",Sportv 3
+group-title="TV Fechada",TNT
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/eb94fb01630f3d1ac674a9e5abb15098/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" 
-tvg-name="Sportv 3" 
+tvg-name="Space HD" 
 tvg-logo="###" 
-group-title="TV Fechada",Sportv 3
+group-title="TV Fechada",Space HD
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/25056f123c9944a63c845f088a0ead7d/space.m3u8
-
 
 #EXTINF:-1 tvg-id="" 
 tvg-name="Telecine Action" 
@@ -159,9 +155,9 @@ group-title="TV Fechada",HBM
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/e622370eab3951ce3aee3baf479200ba/hbo.m3u8
 
 #EXTINF:-1 tvg-id="" 
-tvg-name="multishow" 
+tvg-name="Multishow" 
 tvg-logo="###" 
-group-title="TV Fechada",multishow
+group-title="TV Fechada",Multishow
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/caab2685e984e277757c1750bd2e4a13/multishow.m3u8
 
 #EXTINF:-1 tvg-id="" 
@@ -169,6 +165,7 @@ tvg-name="Discovery Home & Health"
 tvg-logo="###" 
 group-title="Discovery",Discovery Home & Health
 https:\/\/outbound-proxy-us-east1-0-glob-usercontent-client-id-8614514726.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo\/docs\/discoveryhomeihealth\/__index.m3u8?cc=y&sv=163&nu3zAQc9HC3GbwJq=1766437904-gqxaW23Hi6YgTs1a1FBaIYK0hKxNIxw0GC1jnOnzshw%3D
+
 
 
 
