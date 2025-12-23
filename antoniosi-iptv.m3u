@@ -23,12 +23,6 @@ group-title="TV Aberta",SBT
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/82a76f5658e35ac010aacacc7b046135/sbt.m3u8
 
 #EXTINF:-1 tvg-id="" 
-tvg-name="Band" 
-tvg-logo="###" 
-group-title="TV Aberta",Band
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/0a24771c4f387bfa47c3296d5ff2b636/band.m3u8
-
-#EXTINF:-1 tvg-id="" 
 tvg-name="Record" 
 tvg-logo="###" 
 group-title="TV Aberta",Record
@@ -165,6 +159,7 @@ tvg-name="Discovery Home & Health"
 tvg-logo="###" 
 group-title="Discovery",Discovery Home & Health
 https:\/\/outbound-proxy-us-east1-0-glob-usercontent-client-id-8614514726.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo\/docs\/discoveryhomeihealth\/__index.m3u8?cc=y&sv=163&nu3zAQc9HC3GbwJq=1766437904-gqxaW23Hi6YgTs1a1FBaIYK0hKxNIxw0GC1jnOnzshw%3D
+
 
 
 
