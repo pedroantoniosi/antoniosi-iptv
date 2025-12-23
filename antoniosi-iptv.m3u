@@ -3,16 +3,16 @@
 ############################
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ" tvg-logo="###" group-title="TV Aberta",Globo RJ
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/be1f4e9fdfbf6fcd08848a956031b2b2/globorj.m3u8
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/7be947b3967ccd48a1f236c85fc2446e/globorj.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="###" group-title="TV Aberta",Band
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/2939b77c5f096e4de4c6af0dba99748a/band.m3u8
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/8218c77ab6de0a06d3e3136b7c990f67/band.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="###" group-title="TV Aberta",SBT
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/82a76f5658e35ac010aacacc7b046135/sbt.m3u8
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/a0b3a0546b54c14e83a4a169421a014a/sbt.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="Record" tvg-logo="###" group-title="TV Aberta",Record
-https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/ad59924dd9c4c5af1f44304793fcabe3/record.m3u8
+https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/a2176540ad664ea14b75cee82a7e8038/record.m3u8
 
 
 ############################
@@ -80,3 +80,4 @@ https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/d5f8aa0a8413dd2fc
 
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="###" group-title="TV Fechada",Multishow
 https://d1muf25xa12so8hp23.s27-usa-cloudfront-net.online/token/caab2685e984e277757c1750bd2e4a13/multishow.m3u8
+
